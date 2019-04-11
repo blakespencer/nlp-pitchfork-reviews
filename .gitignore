@@ -1,2 +1,5 @@
 .DS_Store
 /data
+df_clean.pkl
+NMF_pitchfork.ipynb
+df_topics.pkl
